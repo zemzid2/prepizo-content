@@ -1,0 +1,8 @@
+{
+  "title": "Physics",
+  "description": "Standard Physics curriculum covering Mechanics, Heat, and Waves.",
+  "icon": "⚛️",
+  "order": 1,
+  "tags": ["Full Course", "New Syllabus"],
+  "chapterCount": 1
+}
