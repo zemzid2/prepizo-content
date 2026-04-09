@@ -1,8 +1,12 @@
 {
   "title": "Physics",
-  "description": "Standard Physics curriculum covering Mechanics, Heat, and Waves.",
+  "description": "Numericals, derivations, and practice material for XI Physics.",
   "icon": "⚛️",
   "order": 1,
-  "tags": ["Full Course", "New Syllabus"],
-  "chapterCount": 1
+  "color": "#0369a1",
+  "tags": [
+    "Physics",
+    "Numericals",
+    "FSc Part 1"
+  ]
 }
