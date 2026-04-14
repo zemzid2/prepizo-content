@@ -1,12 +1,11 @@
 {
   "title": "Physics",
-  "description": "Numericals, derivations, and practice material for XI Physics.",
+  "description": "Notes, MCQs, and past papers for First Year Physics.",
   "icon": "⚛️",
   "order": 1,
-  "color": "#0369a1",
   "tags": [
     "Physics",
-    "Numericals",
-    "FSc Part 1"
-  ]
+    "Core"
+  ],
+  "color": "#0e7490"
 }
