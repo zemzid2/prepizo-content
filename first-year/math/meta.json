@@ -1,0 +1,11 @@
+{
+  "title": "Mathematics",
+  "description": "Exercises and reviews for Mathematics.",
+  "icon": "📐",
+  "order": 5,
+  "tags": [
+    "Math",
+    "Exercises"
+  ],
+  "color": "#0369a1"
+}
